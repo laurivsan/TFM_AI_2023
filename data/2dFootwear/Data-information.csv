@@ -1,0 +1,151 @@
+﻿ID;Gender;Brand;Model/Details;Size
+001_01;W;Converse;;5.5
+002_01;M;Saucony;cohesion_xt600;9.5
+002_02;M;Saucony;ride5;9.5
+002_05;M;Saucony;stratos4;9.5
+002_06;M;Saucony;phantom;9.5
+002_07;M;Saucony;guide9;9.5
+003_01;M;BAGO;extralight;10
+003_02;M;Court classic;;10.5
+003_03;M;BASS;webster;10.5
+004_01;M;Nike;dual fusion ST2;9.5
+004_04;M;Asics;GT-2140;9.5
+004_05;M;Asics;GT-2000;9.5
+004_06;M;Asics;GEL-cumulus17;9.5
+004_07;M;Asics;GEL-sonoma2;9.5
+005_01;W;Shoedy;;7.5
+005_02;W;Prospecs;;5.5
+005_03;W;HeyBear;;6
+005_04;W;Nike;;7.5
+005_05;W;Robin;;7.5
+005_06;W;Skechers;;7
+005_07;W;Ninewest;;7
+005_08;W;T2R;;7.5
+005_09;W;T2R;;8
+005_10;W;Cooeli;;8
+005_11;W;Nike;Winflow;8
+006_01;W;Columbus;;7
+006_02;W;Asics;;7
+006_03;W;Nike;;7
+006_04;W;Adidas;;6
+007_01;M;Adidas;;11
+007_02;M;Nike;;11.5
+007_03;M;Nike;;11
+007_04;M;Asics;;11.5
+007_05;M;Nike;;11
+007_06;M;Newbalance;;11
+008_01;M;Skechers;;9.5
+008_02;M;Dockers;;10
+008_03;M;Deer Stags;;10
+008_04;M;Nike;Revolution 2;10
+008_05;M;Keen ;Daytona Sandal;10
+008_06;M;Skechers;;10
+010_01;M;Skechers;;12
+010_02;M;Skechers;;12
+010_03;M;Adidas;;12
+011_01;M;Adidas;;11.5
+011_02;M;None;;12
+011_03;M;Adidas;;10
+011_04;M;Adidas;;10
+011_05;M;Nike;;11.5
+011_06;M;Vans;;10
+011_07;M;Airspeed;;10
+012_01;M;Sorel;;7.5
+012_02;M;Sorel;;8
+012_03;M;Aldo;;7.5
+012_04;M;Prospecs;;8
+012_05;M;Namuhana;;7.5
+012_06;M;Adidas;;7
+012_07;M;Puma;;7.5
+012_08;M;Adidas;;7.5
+012_09;M;CalvinKlain;;7
+012_10;M;Teva;;7
+013_01;W;Newbalance;;7
+013_02;W;Fila;;7
+013_03;W;Birkenstock;;7
+014_01;W;Shoopen;;8
+014_02;W;Shoopen;;7
+014_03;W;Shoopen;;7
+015_01;M;Asics;;10
+015_02;M;Adidas;;9.5
+015_03;M;Yonex;;9
+016_01;W;Nike;;7.5
+016_02;W;Adidas;;5.5
+017_01;W;Nike;;6
+017_02;W;None;;5
+017_03;W;Ofem;;5.5
+017_04;W;Namuhana;;5.5
+017_05;W;Elcanto;;6
+017_06;W;Guho;;5.5
+018_01;M;Sperry;;8.5
+018_02;M;Asics;;9
+018_03;M;Vibram;;8.5
+018_04;M;Sperry;;8.5
+019_01;W;Landya;;7
+019_02;W;Adidas;;5
+019_03;W;Nike;;7.5
+020_01;M;Airwalk;;8.5
+020_02;M;Skechers;relaxedfit;10
+020_03;M;Sperry;top-sider;9
+020_04;M;Soma;;9.5
+020_05;M;Feiyue;;10
+020_06;M;Vans;;9.5
+020_07;M;Skechers;;11.5
+020_08;M;OP;Grendene;9
+020_09;M;Stone;;9
+020_10;M;None;;10
+020_11;M;Nike;zoom winflo 4;10
+020_12;M;Converse;;10
+020_13;M;Sonoma;;10.5
+020_14;M;G.H.Bass&Co;;10
+020_15;M;Skechers;relaxedfit;10
+020_16;M;Fadedglory;;9
+020_17;M;Sperry;top-sider;10
+020_18;M;Nike;total core trainer;10.5
+020_19;M;Adidas;samba;11.5
+009_01;W;Nike;zoom;10.5
+009_02;W;Asics;Ahar;10
+009_03;W;Converse;pink;10
+009_04;W;Converse;black;10
+009_05;W;Converse;circle-patterns and white background;10
+009_06;W;Converse;red;10
+009_07;W;Truesoft;;11
+009_08;W;Asics;S563N;10
+009_09;W;Newbalance;470 v2;10
+009_10;W;Sperry;;10
+009_11;W;Sperry;;10
+009_12;W;Sugar;;10
+021_01;W;Nike;revolution2;9
+021_02;W;Champion;;8.5
+021_03;W;Brooks;GTS seventeenth (grey);9.5
+021_04;W;Brooks;GTS seventeenth (blue);9.5
+021_05;W;Champion;;8.5
+021_06;M;Nike;Shock;9
+021_07;M;Nike;Lunarglide 7;9.5
+021_08;M;Nike ;;9.5
+022_01;M;Under Amour;;13
+023_01;M;American Eagle;;11
+023_02;M;Champion;;11
+024_01;M;Asics;Dynamic Duomax;10.5
+025_01;W;Nike;zoom winflo 4;8
+025_02;W;Nike;Tr fit 4;7.5
+025_03;W;Nike;Tr fit 4;7
+025_04;W;Ecco;;8
+025_05;W;Asics;S465N;7.5
+025_06;W;Newbalance;WX208P;7.5
+025_07;W;Ecco;;8
+025_08;W;Teva;1000035;6
+026_01;W;Converse;;7
+026_02;W;Dansko;;7
+026_03;W;Nike;free run 2;7.5
+026_04;W;Clarks;;7
+026_05;W;Teva;;7
+026_06;W;Keen;;7.5
+026_07;W;Saucony;ezcursion tr5;7.5
+026_08;W;Sperry;;7
+026_09;W;K-swiss;;8
+026_10;W;Keen;;7.5
+026_11;W;Simply vera;;7.5
+026_12;W;Arizona;;8
+027_01;W;Nike;;10.5
+028_01;M;Asics;;12
