@@ -8,4 +8,5 @@ Implementación de una inteligencia artificial para la detección de huellas de 
 El conjunto de datos utilizado para este proyecto se encuentra en:
 
 https://iastate.figshare.com/articles/figure/2D_Footwear_outsole_impressions/11624073/1
+https://fid.dmi.unibas.ch/ 
 
